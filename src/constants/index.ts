@@ -246,20 +246,20 @@ const projects: TProject[] = [
     sourceCodeLink: "https://github.com/MounikaKolisetty/enval",
   },
   {
-    name: "Job IT",
+    name: "Coming Soon...",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "This project is under development. Currently, I am focusing on my ongoing work-related projects, which are private. Stay tuned for updates and exciting features soon!",
     tags: [
       {
-        name: "react",
+        name: "Stay",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "tuned for",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "more updates",
         color: "pink-text-gradient",
       },
     ],
@@ -267,20 +267,20 @@ const projects: TProject[] = [
     sourceCodeLink: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Coming Soon...",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This project is under development. Currently, I am focusing on my ongoing work-related projects, which are private. Stay tuned for updates and exciting features soon!",
     tags: [
       {
-        name: "nextjs",
+        name: "Stay",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "tuned for",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "more updates",
         color: "pink-text-gradient",
       },
     ],
